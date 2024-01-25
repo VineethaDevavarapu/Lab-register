@@ -1,0 +1,2993 @@
+[
+ {
+  "Checked Out By?": "ID",
+  "Column6": "Name",
+  "Column7": "Mob No",
+  "Column8": "Date",
+  "Return ": "Date",
+  "Column10": "Remarks"
+ },
+ {
+  "Content": "Power jacks",
+  "Quantity": "lot",
+  "Position": " "
+ },
+ {
+  "Content": "Leftover junk",
+  "Position": " "
+ },
+ {
+  "Content": "High power amplifier",
+  "Quantity": 5,
+  "Position": "A1L"
+ },
+ {
+  "Content": "Melde speakers",
+  "Quantity": 5,
+  "Position": "A1L"
+ },
+ {
+  "Content": "solid state relay",
+  "Quantity": 1,
+  "Position": "A1L"
+ },
+ {
+  "Content": "2\" speakers",
+  "Quantity": 10,
+  "Position": "A1L"
+ },
+ {
+  "Content": "Speakers, Creative",
+  "Quantity": "pair",
+  "Position": "A1L"
+ },
+ {
+  "Content": "cabinet pads",
+  "Quantity": "pack",
+  "Position": "A1M"
+ },
+ {
+  "Content": "IR Thermometer",
+  "Position": "A1M"
+ },
+ {
+  "Content": "1 mm Cu wire",
+  "Quantity": "roll",
+  "Position": "A1R"
+ },
+ {
+  "Content": "Chargers, assorted\/broken",
+  "Quantity": 3,
+  "Position": "A1R"
+ },
+ {
+  "Content": "Speakers, 8\", 40 W",
+  "Quantity": 2,
+  "Position": "A1R"
+ },
+ {
+  "Content": "4V battery supplies",
+  "Quantity": 12,
+  "Position": "A2L"
+ },
+ {
+  "Content": "4V chargers",
+  "Quantity": 4,
+  "Position": "A2L"
+ },
+ {
+  "Content": "12V chargers\/supplies",
+  "Quantity": 4,
+  "Position": "A2L"
+ },
+ {
+  "Content": "Torch bulbs and bulb holders",
+  "Quantity": "lot",
+  "Position": "A2R"
+ },
+ {
+  "Content": "banana plugs with wire",
+  "Quantity": "lot",
+  "Position": "A2R"
+ },
+ {
+  "Content": "Steel ruler apparatus",
+  "Quantity": "~dozen",
+  "Position": "B1L"
+ },
+ {
+  "Content": "Scalp vein sets",
+  "Quantity": "box",
+  "Position": "B1L"
+ },
+ {
+  "Content": "PT 100\/1000 probes",
+  "Quantity": 23,
+  "Position": "B1L"
+ },
+ {
+  "Content": "SENSOR",
+  "Position": "B1L"
+ },
+ {
+  "Content": "PT Resistance theromoters",
+  "Quantity": 9,
+  "Position": "B1L"
+ },
+ {
+  "Content": "Thermocouple",
+  "Quantity": 1,
+  "Position": "B1L"
+ },
+ {
+  "Content": "Nichrome wire",
+  "Position": "B1L"
+ },
+ {
+  "Content": "Calorimeter stirrers, heaters, T holders",
+  "Quantity": "6 sets",
+  "Position": "B1L"
+ },
+ {
+  "Content": "Pressure meter",
+  "Quantity": 9,
+  "Position": "B1M"
+ },
+ {
+  "Content": "calorimeters",
+  "Quantity": 10,
+  "Position": "B1M"
+ },
+ {
+  "Content": "Acquinots",
+  "Quantity": "2 box",
+  "Position": "B1R"
+ },
+ {
+  "Content": "Measuring cylinders plastic 10 ml",
+  "Quantity": 2,
+  "Position": "B1R"
+ },
+ {
+  "Content": "Measuring cylinders plastic 25 ml",
+  "Quantity": 1,
+  "Position": "B1R"
+ },
+ {
+  "Content": "Steel Balls",
+  "Position": "B1R"
+ },
+ {
+  "Content": "Lead Strips",
+  "Position": "B1R"
+ },
+ {
+  "Content": "Tripod stands",
+  "Quantity": 3,
+  "Position": "B1R"
+ },
+ {
+  "Content": "copper strips",
+  "Quantity": "1 jar",
+  "Position": "B1R"
+ },
+ {
+  "Content": "Copper foil",
+  "Quantity": "lot",
+  "Position": "B1R"
+ },
+ {
+  "Content": "Lead sheet",
+  "Quantity": "lot",
+  "Position": "B1R"
+ },
+ {
+  "Content": "Conical flask (50 ml)",
+  "Quantity": 8,
+  "Position": "B2L"
+ },
+ {
+  "Content": "Conical flask (25 ml)",
+  "Quantity": 7,
+  "Position": "B2L"
+ },
+ {
+  "Content": "conical flask 25 ml ",
+  "Quantity": 1,
+  "Position": "B2L"
+ },
+ {
+  "Content": "glass rods",
+  "Quantity": 5,
+  "Position": "B2L"
+ },
+ {
+  "Content": "Rubber stoppers, small",
+  "Quantity": 5,
+  "Position": "B2L"
+ },
+ {
+  "Content": "Sample tubes (15ml)",
+  "Quantity": 30,
+  "Position": "B2M"
+ },
+ {
+  "Content": "5 ml pipettes",
+  "Quantity": 7,
+  "Position": "B2M"
+ },
+ {
+  "Content": "DROPPERS",
+  "Quantity": 9,
+  "Position": "B2M"
+ },
+ {
+  "Content": "Conical flask (125 ml)",
+  "Quantity": 7,
+  "Position": "B2R"
+ },
+ {
+  "Content": "rubber tubing",
+  "Quantity": "2 rolls",
+  "Position": "B2R"
+ },
+ {
+  "Content": "Cartridge heater",
+  "Quantity": 1,
+  "Position": "B2R"
+ },
+ {
+  "Content": "50 ml beakers",
+  "Quantity": 8,
+  "Position": "B3L"
+ },
+ {
+  "Content": "100 ml beakers",
+  "Quantity": 4,
+  "Position": "B3L"
+ },
+ {
+  "Content": "50 ml beakers",
+  "Quantity": 8,
+  "Position": "B3L",
+  "Column4": " +5 more added"
+ },
+ {
+  "Content": "250 ml volumetric flask",
+  "Quantity": 1,
+  "Position": "B3L"
+ },
+ {
+  "Content": "50 ml beakers",
+  "Quantity": 4,
+  "Position": "B3L"
+ },
+ {
+  "Content": "spatulas and tweezers",
+  "Quantity": "lot",
+  "Position": "B3L"
+ },
+ {
+  "Content": "Thermometers",
+  "Quantity": 11,
+  "Position": "B3L"
+ },
+ {
+  "Content": "500 ml flask",
+  "Quantity": 2,
+  "Position": "B3M"
+ },
+ {
+  "Content": "250 ml flask",
+  "Quantity": 1,
+  "Position": "B3M"
+ },
+ {
+  "Content": "100 ml flask",
+  "Quantity": 1,
+  "Position": "B3M"
+ },
+ {
+  "Content": "50 ml flask 1",
+  "Quantity": 1,
+  "Position": "B3M"
+ },
+ {
+  "Content": "CAPPILLARY TUBES",
+  "Quantity": "3 BOXES",
+  "Position": "B3M"
+ },
+ {
+  "Content": "500 ml beakers",
+  "Quantity": 8,
+  "Position": "B3R"
+ },
+ {
+  "Content": "250 ml beakers",
+  "Quantity": 4,
+  "Position": "B3R"
+ },
+ {
+  "Content": "500 ml beakers",
+  "Quantity": 1,
+  "Position": "B3R"
+ },
+ {
+  "Content": "250 ml beakers",
+  "Quantity": 2,
+  "Position": "B3R"
+ },
+ {
+  "Content": "Hamilton (various volumes)",
+  "Quantity": 7,
+  "Position": "B4L"
+ },
+ {
+  "Content": "Plastic syringes 50 ml",
+  "Quantity": 15,
+  "Position": "B4L"
+ },
+ {
+  "Content": "Plastic syringes 10 ml",
+  "Quantity": 20,
+  "Position": "B4L"
+ },
+ {
+  "Content": "Glass syringe (5 ml)",
+  "Quantity": 8,
+  "Position": "B4M"
+ },
+ {
+  "Content": "Glass syringe (20 ml)",
+  "Quantity": 9,
+  "Position": "B4M"
+ },
+ {
+  "Content": "glass syringe (50 ml)",
+  "Quantity": 10,
+  "Position": "B4M"
+ },
+ {
+  "Content": "glass joints and test tubes",
+  "Quantity": "set",
+  "Position": "B4M"
+ },
+ {
+  "Content": "Tarsons 10 ml syringes",
+  "Quantity": 30,
+  "Position": "B4M"
+ },
+ {
+  "Content": "Glass syringe (100 ml)",
+  "Quantity": 2,
+  "Position": "B4R"
+ },
+ {
+  "Content": "100 ml cylinder",
+  "Quantity": 3,
+  "Position": "B4R"
+ },
+ {
+  "Content": "50 ml cylinder",
+  "Quantity": 3,
+  "Position": "B4R"
+ },
+ {
+  "Content": "PLASTIC SYRINGES 5 ml",
+  "Quantity": 10,
+  "Position": "B4R"
+ },
+ {
+  "Content": " PLASTIC SYRINGES 20 ml",
+  "Quantity": 11,
+  "Position": "B4R"
+ },
+ {
+  "Content": "PLASTIC SYRINGES 2.5 ml",
+  "Quantity": 7,
+  "Position": "B4R"
+ },
+ {
+  "Content": "Microtips",
+  "Quantity": "box",
+  "Position": "B5"
+ },
+ {
+  "Content": "Remi Heater stirrer 1MLH",
+  "Quantity": 1,
+  "Position": "B5L"
+ },
+ {
+  "Content": "Tarson microtips",
+  "Quantity": "3 box",
+  "Position": "B5L"
+ },
+ {
+  "Content": "Remi 1MLH",
+  "Quantity": 1,
+  "Position": "B5L"
+ },
+ {
+  "Content": "Remi 1MLH",
+  "Quantity": 1,
+  "Position": "B5M"
+ },
+ {
+  "Content": "1 litre measureing cylinders plastic",
+  "Quantity": 5,
+  "Position": "B5R"
+ },
+ {
+  "Content": "1\/2 litre measuring cylinders plastic",
+  "Quantity": 5,
+  "Position": "B5R"
+ },
+ {
+  "Content": "corn starch",
+  "Quantity": "1 kg",
+  "Position": "B5R"
+ },
+ {
+  "Content": "Screw gauge",
+  "Quantity": 7,
+  "Position": "C1L"
+ },
+ {
+  "Content": "G-clamps (small)",
+  "Quantity": 16,
+  "Position": "C1L"
+ },
+ {
+  "Content": "G-clamps (big)",
+  "Quantity": 7,
+  "Position": "C1L"
+ },
+ {
+  "Content": "WOODEN MECHANICAL TOYS",
+  "Quantity": 3,
+  "Position": "C1L"
+ },
+ {
+  "Content": "Table clamps, yellow small",
+  "Quantity": 6,
+  "Position": "C1L"
+ },
+ {
+  "Content": "Rotation stage rails",
+  "Quantity": 6,
+  "Position": "C1M"
+ },
+ {
+  "Content": "Perspex for ripple tank",
+  "Position": "C1M"
+ },
+ {
+  "Content": "Perspex rotation discs,, ellipses, etc",
+  "Quantity": "Lot",
+  "Position": "C1R"
+ },
+ {
+  "Content": "Ticker power  supply",
+  "Quantity": 5,
+  "Position": "C2L"
+ },
+ {
+  "Content": "geared motors",
+  "Quantity": 4,
+  "Position": "C2L"
+ },
+ {
+  "Content": "Motor controller",
+  "Quantity": 5,
+  "Position": "C2L"
+ },
+ {
+  "Content": "Assorted Perspex parts",
+  "Position": "C2L"
+ },
+ {
+  "Content": "500rpm motor",
+  "Quantity": 1,
+  "Position": "C2L"
+ },
+ {
+  "Content": "Ticker timers",
+  "Quantity": 3,
+  "Position": "C2M"
+ },
+ {
+  "Content": "Ticker carts",
+  "Quantity": 9,
+  "Position": "C2M"
+ },
+ {
+  "Content": "DC Motors on stands",
+  "Quantity": 5,
+  "Position": "C2R"
+ },
+ {
+  "Content": "assorted motors, bearings, shafts",
+  "Quantity": "box",
+  "Position": "C2R"
+ },
+ {
+  "Content": "salter balances",
+  "Quantity": 10,
+  "Position": "C3L"
+ },
+ {
+  "Content": "pendulum clamps",
+  "Quantity": 22,
+  "Position": "C3L"
+ },
+ {
+  "Content": "springs",
+  "Quantity": "1 bag",
+  "Position": "C3L"
+ },
+ {
+  "Content": "clamps ",
+  "Quantity": 6,
+  "Position": "C3L"
+ },
+ {
+  "Content": "Pulleys on clamp",
+  "Quantity": 12,
+  "Position": "C3L"
+ },
+ {
+  "Content": "Burette clamps",
+  "Quantity": 4,
+  "Position": "C3L"
+ },
+ {
+  "Content": "double pulleys",
+  "Quantity": 8,
+  "Position": "C3L"
+ },
+ {
+  "Content": "Burette clamps",
+  "Quantity": 1,
+  "Position": "C3L"
+ },
+ {
+  "Content": "Melde clamps",
+  "Quantity": 9,
+  "Position": "C3M"
+ },
+ {
+  "Content": "Single pulleys",
+  "Quantity": 8,
+  "Position": "C3M"
+ },
+ {
+  "Content": "Torsiion balance suspension",
+  "Quantity": 5,
+  "Position": "C3M"
+ },
+ {
+  "Content": "torsion balance suspension",
+  "Quantity": 3,
+  "Position": "C3M"
+ },
+ {
+  "Content": "Top stand",
+  "Quantity": 6,
+  "Position": "C3M"
+ },
+ {
+  "Content": "Clamps for stand",
+  "Quantity": 12,
+  "Position": "C3M"
+ },
+ {
+  "Content": "Stand bases",
+  "Quantity": 6,
+  "Position": "C3R"
+ },
+ {
+  "Content": "bosses",
+  "Quantity": 5,
+  "Position": "C3R"
+ },
+ {
+  "Content": "clamps ",
+  "Quantity": 3,
+  "Position": "C3R"
+ },
+ {
+  "Content": "bosses",
+  "Quantity": 2,
+  "Position": "C3R"
+ },
+ {
+  "Content": "bosses",
+  "Quantity": 3,
+  "Position": "C3R"
+ },
+ {
+  "Content": "Retort stand bases",
+  "Quantity": 13,
+  "Position": "C3R"
+ },
+ {
+  "Content": "Lab Jacks (big)",
+  "Quantity": 3,
+  "Position": "C4L"
+ },
+ {
+  "Content": "Lab Jacks (small)",
+  "Quantity": 2,
+  "Position": "C4L"
+ },
+ {
+  "Content": "Torsion pendulums",
+  "Quantity": 7,
+  "Position": "C4L"
+ },
+ {
+  "Content": "Torsion pendulums",
+  "Position": "C4L"
+ },
+ {
+  "Content": "Lab jacks",
+  "Quantity": 2,
+  "Position": "C4L"
+ },
+ {
+  "Content": "Lab jack (small)",
+  "Quantity": 1,
+  "Position": "C4L"
+ },
+ {
+  "Content": "Circular plates",
+  "Quantity": 6,
+  "Position": "C4M"
+ },
+ {
+  "Content": "Kater pendulum",
+  "Position": "C4M"
+ },
+ {
+  "Content": "Torstion pendulum bases",
+  "Quantity": 6,
+  "Position": "C4M"
+ },
+ {
+  "Content": "Kater pendulum stand base",
+  "Quantity": 6,
+  "Position": "C4M"
+ },
+ {
+  "Content": "Torsion pendulums collets",
+  "Quantity": "pack",
+  "Position": "C4M"
+ },
+ {
+  "Content": "Torsion pendulums rectangles",
+  "Quantity": 3,
+  "Position": "C4M"
+ },
+ {
+  "Content": "Rectangular plates",
+  "Quantity": 3,
+  "Position": "C4R"
+ },
+ {
+  "Content": "Irregular plates",
+  "Quantity": 6,
+  "Position": "C4R"
+ },
+ {
+  "Content": "Torssion pendulum brackets",
+  "Quantity": 6,
+  "Position": "C4R"
+ },
+ {
+  "Content": "Strips with pivots, rods",
+  "Quantity": 6,
+  "Position": "C4R"
+ },
+ {
+  "Content": "Weights with hanger 100g",
+  "Quantity": 13,
+  "Position": "C4R"
+ },
+ {
+  "Content": "Weights with hanger 50 g",
+  "Quantity": 18,
+  "Position": "C4R"
+ },
+ {
+  "Content": "Weights with hanger 20 g",
+  "Quantity": 1,
+  "Position": "C4R"
+ },
+ {
+  "Content": "Weights with hanger 10 g",
+  "Quantity": 4,
+  "Position": "C4R"
+ },
+ {
+  "Content": "Weights with hanger 5 g",
+  "Quantity": 1,
+  "Position": "C4R"
+ },
+ {
+  "Content": "Bosses",
+  "Quantity": 12,
+  "Position": "C4R"
+ },
+ {
+  "Content": "500 gm weights",
+  "Quantity": 5,
+  "Position": "C4R"
+ },
+ {
+  "Content": "shaded pole motors",
+  "Quantity": 5,
+  "Position": "C5L"
+ },
+ {
+  "Content": "Roller skates",
+  "Quantity": 4,
+  "Position": "C5L"
+ },
+ {
+  "Content": "Ripple tank power supply",
+  "Quantity": 1,
+  "Position": "C5L"
+ },
+ {
+  "Content": "plastic balls",
+  "Quantity": "2 boxes",
+  "Position": "C5M"
+ },
+ {
+  "Content": "Stand rods",
+  "Quantity": 11,
+  "Position": "C5M"
+ },
+ {
+  "Content": "Katers pendulum rods",
+  "Quantity": 6,
+  "Position": "C5M"
+ },
+ {
+  "Content": "Katers pendulum bars",
+  "Quantity": 6,
+  "Position": "C5M"
+ },
+ {
+  "Content": "Sewing machine motor w\/controller",
+  "Quantity": 1,
+  "Position": "C5M"
+ },
+ {
+  "Content": "Sewing machine controller",
+  "Quantity": 1,
+  "Position": "C5M"
+ },
+ {
+  "Content": "Circular spring balance, 100kg",
+  "Quantity": 1,
+  "Position": "C5M"
+ },
+ {
+  "Content": "Mechanics cupboard leftovers (Mur)",
+  "Position": "C5M"
+ },
+ {
+  "Content": "Stamd rods",
+  "Quantity": 12,
+  "Position": "C5R"
+ },
+ {
+  "Content": "sewing machine motor",
+  "Quantity": 1,
+  "Position": "C5R"
+ },
+ {
+  "Content": "Multimeters (busted)",
+  "Quantity": 5,
+  "Position": "D2L"
+ },
+ {
+  "Content": "Digital multimeter",
+  "Quantity": 3,
+  "Position": "D2L"
+ },
+ {
+  "Content": "power supply",
+  "Quantity": 1,
+  "Position": "D2R"
+ },
+ {
+  "Content": "Power supply, +\/- 15 V",
+  "Quantity": 1,
+  "Position": "D2R"
+ },
+ {
+  "Content": "Power Supplies",
+  "Quantity": 2,
+  "Position": "D3L"
+ },
+ {
+  "Content": "Power Supplies",
+  "Quantity": 2,
+  "Position": "D3L"
+ },
+ {
+  "Content": "Power Supplies",
+  "Quantity": 2,
+  "Position": "D3M"
+ },
+ {
+  "Content": "Power Supplies",
+  "Quantity": 2,
+  "Position": "D3M"
+ },
+ {
+  "Content": "Power Supplies",
+  "Quantity": 1,
+  "Position": "D3M"
+ },
+ {
+  "Content": "Power Supplies",
+  "Quantity": 2,
+  "Position": "D3R"
+ },
+ {
+  "Content": "Power Supplies",
+  "Quantity": "1\/5 working",
+  "Position": "D4"
+ },
+ {
+  "Content": "Power Supplies (old type)",
+  "Quantity": 1,
+  "Position": "D5L"
+ },
+ {
+  "Content": "Low RPM motor controller",
+  "Quantity": 1,
+  "Position": "D5L"
+ },
+ {
+  "Content": "Compact light source ",
+  "Quantity": 1,
+  "Position": "D5M"
+ },
+ {
+  "Content": "Frequency counter 1 GHz",
+  "Quantity": 1,
+  "Position": "D5M"
+ },
+ {
+  "Content": "Compact light source PSU",
+  "Quantity": 1,
+  "Position": "D5R"
+ },
+ {
+  "Content": "magnetron",
+  "Quantity": 1,
+  "Position": "D5R"
+ },
+ {
+  "Content": "variac 10A",
+  "Quantity": 1,
+  "Position": "D5R"
+ },
+ {
+  "Content": "Kr",
+  "Quantity": 3,
+  "Position": "F1L"
+ },
+ {
+  "Content": "Ne",
+  "Quantity": 3,
+  "Position": "F1L"
+ },
+ {
+  "Content": "CO2",
+  "Quantity": 2,
+  "Position": "F1L"
+ },
+ {
+  "Content": "Ar",
+  "Quantity": 3,
+  "Position": "F1L"
+ },
+ {
+  "Content": "Hg",
+  "Quantity": 1,
+  "Position": "F1L"
+ },
+ {
+  "Content": "He",
+  "Quantity": 2,
+  "Position": "F1L"
+ },
+ {
+  "Content": "H20",
+  "Quantity": 3,
+  "Position": "F1L"
+ },
+ {
+  "Content": "Discharge Tube Power Supply",
+  "Quantity": 4,
+  "Position": "F1M"
+ },
+ {
+  "Content": "fans",
+  "Quantity": 2,
+  "Position": "F1R"
+ },
+ {
+  "Content": "Tripod camera clamps",
+  "Quantity": 4,
+  "Position": "F1R"
+ },
+ {
+  "Content": "Plastic box",
+  "Quantity": 1,
+  "Position": "F1R"
+ },
+ {
+  "Content": "Camera",
+  "Quantity": 3,
+  "Position": "F2L"
+ },
+ {
+  "Content": "Camera chargers",
+  "Position": "F2L"
+ },
+ {
+  "Content": "Tachometer",
+  "Quantity": 1,
+  "Position": "F2L"
+ },
+ {
+  "Content": "Power pack, box only",
+  "Quantity": 1,
+  "Position": "F2M"
+ },
+ {
+  "Content": "Smoke cells",
+  "Position": "F2M"
+ },
+ {
+  "Content": "Heavy spring",
+  "Quantity": 1,
+  "Position": "F2R"
+ },
+ {
+  "Content": "Index pins",
+  "Quantity": 6,
+  "Position": "F2R"
+ },
+ {
+  "Content": "fly wheel pins",
+  "Quantity": 6,
+  "Position": "F2R"
+ },
+ {
+  "Content": "Home wound coils",
+  "Quantity": "ot",
+  "Position": "F2R"
+ },
+ {
+  "Content": "Heating elements, mica, nichrome wire",
+  "Position": "F2R"
+ },
+ {
+  "Content": "Electroscopes",
+  "Quantity": 14,
+  "Position": "F3L"
+ },
+ {
+  "Content": "Extra glass windows for electroscopes",
+  "Quantity": 6,
+  "Position": "F3L"
+ },
+ {
+  "Content": "beakers",
+  "Quantity": "lot",
+  "Position": "F3M"
+ },
+ {
+  "Content": "petri dishes",
+  "Quantity": "lot",
+  "Position": "F3M"
+ },
+ {
+  "Content": "Nuffield bread board",
+  "Quantity": 1,
+  "Position": "F3R"
+ },
+ {
+  "Content": "Tangent galvanometers (home made)",
+  "Quantity": "lot",
+  "Position": "F3R"
+ },
+ {
+  "Content": "Tripods (small)",
+  "Quantity": 7,
+  "Position": "F4L"
+ },
+ {
+  "Content": "Tripods (big)",
+  "Quantity": 7,
+  "Position": "F4R"
+ },
+ {
+  "Content": "CPVC Pipe fittings",
+  "Quantity": "2 bags",
+  "Position": "F5L"
+ },
+ {
+  "Content": "electric kettle",
+  "Quantity": 1,
+  "Position": "F5M"
+ },
+ {
+  "Content": "Coil Winder",
+  "Position": "F5R"
+ },
+ {
+  "Content": " Resistance boxes 0.1 - 10 ohm",
+  "Quantity": 8,
+  "Position": "G1L"
+ },
+ {
+  "Content": "Resistance boxes 0.1-10 ohm",
+  "Quantity": 3,
+  "Position": "G1L"
+ },
+ {
+  "Content": "Resistance boxes 0.1-10 ohm",
+  "Quantity": 5,
+  "Position": "G1M"
+ },
+ {
+  "Content": "Resistance boxes 0.1-5 ohm",
+  "Quantity": 8,
+  "Position": "G1R"
+ },
+ {
+  "Content": "Rheostats 0.5 ohm, 1.5A",
+  "Quantity": 12,
+  "Position": "G2L"
+ },
+ {
+  "Content": "Key switch",
+  "Quantity": 20,
+  "Position": "G2M"
+ },
+ {
+  "Content": "microammeter 0-50",
+  "Quantity": 1,
+  "Position": "G2R"
+ },
+ {
+  "Content": "DC Ammeters 0-10A",
+  "Quantity": 15,
+  "Position": "G3L"
+ },
+ {
+  "Content": "DC Ammeter 0-2A",
+  "Quantity": 3,
+  "Position": "G3M"
+ },
+ {
+  "Content": "DC Ammeter 0- 2 A",
+  "Quantity": 5,
+  "Position": "G3M"
+ },
+ {
+  "Content": "DC Ammeter 0-1A",
+  "Quantity": 7,
+  "Position": "G3R"
+ },
+ {
+  "Content": "DCAmmeters 0-1A",
+  "Quantity": 8,
+  "Position": "G3R"
+ },
+ {
+  "Content": "DC Ammeter 0-1A",
+  "Quantity": 1,
+  "Position": "G3R"
+ },
+ {
+  "Content": "AC voltmeter 0-15v",
+  "Quantity": 15,
+  "Position": "G4L"
+ },
+ {
+  "Content": "DC Voltmeter 0-15",
+  "Quantity": 4,
+  "Position": "G4M"
+ },
+ {
+  "Content": "DC Voltmeter 0-15 V",
+  "Quantity": 10,
+  "Position": "G4M"
+ },
+ {
+  "Content": "Voltmeter 0-15",
+  "Quantity": 1,
+  "Position": "G4M"
+ },
+ {
+  "Content": "DC Ammeter 0-250mA",
+  "Quantity": 7,
+  "Position": "G4R"
+ },
+ {
+  "Content": "DC Ammeter 0-250",
+  "Quantity": 2,
+  "Position": "G4R"
+ },
+ {
+  "Content": "0-250 mAmmeter DC",
+  "Quantity": 1,
+  "Position": "G4R"
+ },
+ {
+  "Content": "AC Ammeter 0-10A",
+  "Quantity": 3,
+  "Position": "G5L"
+ },
+ {
+  "Content": "AC Ammeter 0-10A",
+  "Quantity": 1,
+  "Position": "G5L"
+ },
+ {
+  "Content": "AC Ammeter 0-10A",
+  "Quantity": 11,
+  "Position": "G5L"
+ },
+ {
+  "Content": "Galvanometers 30-0-30",
+  "Quantity": 12,
+  "Position": "G5M"
+ },
+ {
+  "Content": "30-0-30 Galvanometer",
+  "Quantity": 3,
+  "Position": "G5M"
+ },
+ {
+  "Content": "DC Volmeter 0-1 V",
+  "Quantity": 7,
+  "Position": "G5R"
+ },
+ {
+  "Content": "Voltmeter 0-1",
+  "Quantity": 2,
+  "Position": "G5R"
+ },
+ {
+  "Content": "1\" carriages",
+  "Quantity": 12,
+  "Position": "H1L"
+ },
+ {
+  "Content": "Post holder bases large",
+  "Quantity": 10,
+  "Position": "H1L"
+ },
+ {
+  "Content": "Post holder bases medium",
+  "Quantity": 10,
+  "Position": "H1L"
+ },
+ {
+  "Content": "Post holder bases small",
+  "Quantity": 10,
+  "Position": "H1L"
+ },
+ {
+  "Content": "L-bracket",
+  "Quantity": 4,
+  "Position": "H1L"
+ },
+ {
+  "Content": "Square multi-thread bases",
+  "Quantity": 4,
+  "Position": "H1L"
+ },
+ {
+  "Content": "Prism tables (small)",
+  "Quantity": 4,
+  "Position": "H1L"
+ },
+ {
+  "Content": "Prism tables (large)",
+  "Quantity": 4,
+  "Position": "H1L"
+ },
+ {
+  "Content": "Post Holder 4\"",
+  "Quantity": 10,
+  "Position": "H1L"
+ },
+ {
+  "Content": "Post Holder 3\"",
+  "Quantity": 10,
+  "Position": "H1L"
+ },
+ {
+  "Content": "Post Holder 2\"",
+  "Quantity": 7,
+  "Position": "H1L"
+ },
+ {
+  "Content": "Post Holder 1\"",
+  "Quantity": 10,
+  "Position": "H1L"
+ },
+ {
+  "Content": "Post Holder 6\"",
+  "Quantity": 5,
+  "Position": "H1L"
+ },
+ {
+  "Content": "Post holder pedestals",
+  "Quantity": 15,
+  "Position": "H1L"
+ },
+ {
+  "Content": "Post holder base clamps",
+  "Quantity": 10,
+  "Position": "H1L"
+ },
+ {
+  "Content": "Post clamps",
+  "Quantity": 12,
+  "Position": "H1L"
+ },
+ {
+  "Content": "Posts, 6\"",
+  "Quantity": 5,
+  "Position": "H1L"
+ },
+ {
+  "Content": "Posts, 4\"",
+  "Quantity": 10,
+  "Position": "H1L"
+ },
+ {
+  "Content": "Posts, 3\"",
+  "Quantity": 10,
+  "Position": "H1L"
+ },
+ {
+  "Content": "Posts, 2\"",
+  "Quantity": 9,
+  "Position": "H1L"
+ },
+ {
+  "Content": "Posts, 1.5\"",
+  "Quantity": 8,
+  "Position": "H1L"
+ },
+ {
+  "Content": "Posts, 1\"",
+  "Quantity": 11,
+  "Position": " "
+ },
+ {
+  "Content": "2\" carriages",
+  "Quantity": 18,
+  "Position": "H1M"
+ },
+ {
+  "Content": "Micrometer translation stages",
+  "Quantity": 4,
+  "Position": "H1M"
+ },
+ {
+  "Content": "Right angle mounts",
+  "Quantity": 12,
+  "Position": "H1M"
+ },
+ {
+  "Content": "Variable lens holders",
+  "Quantity": 14,
+  "Position": "H1M"
+ },
+ {
+  "Content": "Claws",
+  "Quantity": 10,
+  "Position": "H1M"
+ },
+ {
+  "Content": "Post clamps, right angle, assorted",
+  "Quantity": 9,
+  "Position": "H1M"
+ },
+ {
+  "Content": "Post clamps",
+  "Quantity": 3,
+  "Position": "H1M"
+ },
+ {
+  "Content": "8-32 screws",
+  "Position": "H1R"
+ },
+ {
+  "Content": "6mm male-male screws",
+  "Position": "H1R"
+ },
+ {
+  "Content": "Plate beam splitter",
+  "Quantity": 4,
+  "Position": "H2L"
+ },
+ {
+  "Content": "Beam splitter cubes, 25mm",
+  "Quantity": 4,
+  "Position": "H2L"
+ },
+ {
+  "Content": "Lenses, d=50mm, f=200mm",
+  "Quantity": 8,
+  "Position": "H2L"
+ },
+ {
+  "Content": "Lenses, d=50mm, f=100mm",
+  "Quantity": 4,
+  "Position": "H2L"
+ },
+ {
+  "Content": "Lenses, d=50mm, f=500mm",
+  "Quantity": 2,
+  "Position": "H2L"
+ },
+ {
+  "Content": "Plano Al mirror, 25X25 mm",
+  "Quantity": 8,
+  "Position": "H2L"
+ },
+ {
+  "Content": "Rt angle prisms, 25mm",
+  "Quantity": 4,
+  "Position": "H2L"
+ },
+ {
+  "Content": "Plastic stacking trays",
+  "Quantity": 4,
+  "Position": "H2L"
+ },
+ {
+  "Content": "Prisms, 60deg",
+  "Quantity": 7,
+  "Position": "H2L"
+ },
+ {
+  "Content": "Blue plastic trays, stackable",
+  "Quantity": 4,
+  "Position": "H2L"
+ },
+ {
+  "Content": "Polariser sheet, small piece",
+  "Quantity": 1,
+  "Position": "H2L"
+ },
+ {
+  "Content": "Diffraction grating, in box, glass",
+  "Quantity": 1,
+  "Position": "H2L"
+ },
+ {
+  "Content": "Condenser lenses, large",
+  "Quantity": 3,
+  "Position": "H2L"
+ },
+ {
+  "Content": "Glass slabs, assorted",
+  "Quantity": "3 boxes",
+  "Position": "H2M"
+ },
+ {
+  "Content": "3rd hand",
+  "Quantity": 1,
+  "Position": "H2M"
+ },
+ {
+  "Content": "Microscope objectives, 10X",
+  "Quantity": 4,
+  "Position": "H2R"
+ },
+ {
+  "Content": "Microscope objectives, 40X",
+  "Quantity": 2,
+  "Position": "H2R"
+ },
+ {
+  "Content": "Gratings, 500 l\/mm, 1000 l\/mm",
+  "Position": "H2R"
+ },
+ {
+  "Content": "Lenses, d=25mm, f=100mm",
+  "Quantity": 3,
+  "Position": "H2R"
+ },
+ {
+  "Content": "Microscope objective, 45X",
+  "Quantity": 1,
+  "Position": "H2R"
+ },
+ {
+  "Content": "Microscope objective, 5X",
+  "Quantity": 5,
+  "Position": "H2R"
+ },
+ {
+  "Content": "Eyepiece, 15X",
+  "Quantity": 1,
+  "Position": "H2R"
+ },
+ {
+  "Content": "50 mm lenses, assorted, all foci",
+  "Quantity": "many",
+  "Position": "H2R"
+ },
+ {
+  "Content": "50 mm mirrors, assorted, all foci",
+  "Quantity": "many",
+  "Position": "H2R"
+ },
+ {
+  "Content": "Lens tissue packs",
+  "Quantity": 15,
+  "Position": "H2R"
+ },
+ {
+  "Content": "Magnifying glasses",
+  "Quantity": "20 approx",
+  "Position": "H2R"
+ },
+ {
+  "Content": "Spherometers",
+  "Quantity": 2,
+  "Position": "H3L"
+ },
+ {
+  "Content": "Mirrors (cheap)",
+  "Quantity": 6,
+  "Position": "H3R"
+ },
+ {
+  "Content": "optics kit",
+  "Quantity": 1,
+  "Position": "H5L"
+ },
+ {
+  "Content": "Oscilloscope",
+  "Quantity": 1,
+  "Position": "I2L"
+ },
+ {
+  "Content": "Oscilloscopes",
+  "Quantity": 3,
+  "Position": "I2L"
+ },
+ {
+  "Content": "Oscilloscopes",
+  "Quantity": 5,
+  "Position": "I3L"
+ },
+ {
+  "Content": "Oscilloscopes",
+  "Quantity": 8,
+  "Position": "I3M, I3R"
+ },
+ {
+  "Content": "Oscilloscope ",
+  "Quantity": 1,
+  "Position": "I3R"
+ },
+ {
+  "Content": "Signal generator",
+  "Quantity": 1,
+  "Position": "I3R"
+ },
+ {
+  "Content": "Signal generators",
+  "Quantity": 6,
+  "Position": "I4L"
+ },
+ {
+  "Content": "Signal generators",
+  "Quantity": 2,
+  "Position": "I4M"
+ },
+ {
+  "Content": "Signal generators",
+  "Quantity": 4,
+  "Position": "I4R"
+ },
+ {
+  "Content": "Signal generators",
+  "Quantity": 2,
+  "Position": "I5L"
+ },
+ {
+  "Content": "zip seal bags",
+  "Quantity": "lot",
+  "Position": "K1L"
+ },
+ {
+  "Content": "Adhesive tapes plastic",
+  "Quantity": "lot",
+  "Position": "K1L"
+ },
+ {
+  "Content": "thumb tacks",
+  "Quantity": "4 boxes",
+  "Position": "K1L"
+ },
+ {
+  "Content": "stapler pins",
+  "Quantity": "2 boxes 1 bag",
+  "Position": "K1L"
+ },
+ {
+  "Content": "binder clips",
+  "Quantity": "2 boxes",
+  "Position": "K1L"
+ },
+ {
+  "Content": "metallic adhesive tape",
+  "Quantity": "2 rolls",
+  "Position": "K1L"
+ },
+ {
+  "Content": "glue sticks",
+  "Quantity": "5 sticks",
+  "Position": "K1L"
+ },
+ {
+  "Content": "paper clips",
+  "Quantity": "1 box",
+  "Position": "K1L"
+ },
+ {
+  "Content": "super glue",
+  "Quantity": 4,
+  "Position": "K1L"
+ },
+ {
+  "Content": "cloth ribbons",
+  "Quantity": "3 rolls",
+  "Position": "K1L"
+ },
+ {
+  "Content": "stuff to tie stuff with",
+  "Quantity": "1 bag full",
+  "Position": "K1L"
+ },
+ {
+  "Content": "writing supplies",
+  "Position": "K1L"
+ },
+ {
+  "Content": "Lens holder, fixed, 50mm",
+  "Quantity": 8,
+  "Position": "K1L"
+ },
+ {
+  "Content": "Lens holder, fixed, 25mm",
+  "Quantity": 8,
+  "Position": "K1L"
+ },
+ {
+  "Content": "Vaseline",
+  "Position": "K1L"
+ },
+ {
+  "Content": "PAINTBRUSHES",
+  "Quantity": "LOT",
+  "Position": "K1M"
+ },
+ {
+  "Content": "WAX CRAYONS",
+  "Quantity": "2 BOXES",
+  "Position": "K1M"
+ },
+ {
+  "Content": "WATER COLORS",
+  "Quantity": 1,
+  "Position": "K1M"
+ },
+ {
+  "Content": "PROTRACTOR",
+  "Quantity": "LOTS",
+  "Position": "K1M"
+ },
+ {
+  "Content": "15 CM RULERS",
+  "Quantity": 2,
+  "Position": "K1M"
+ },
+ {
+  "Content": "ZIP TIES",
+  "Quantity": "2 SETS",
+  "Position": "K1R"
+ },
+ {
+  "Content": "SANDPAPER ROLL AND BITS",
+  "Quantity": 1,
+  "Position": "K1R"
+ },
+ {
+  "Content": "GARBAGE BAGS",
+  "Quantity": "1 ROLL",
+  "Position": "K1R"
+ },
+ {
+  "Content": "Heat shrink tubing",
+  "Quantity": "lot",
+  "Position": "K1R"
+ },
+ {
+  "Content": "Aluminum foil",
+  "Quantity": "1 roll",
+  "Position": "K1R"
+ },
+ {
+  "Content": "moulding Dough",
+  "Quantity": "pack",
+  "Position": "K2L"
+ },
+ {
+  "Content": "SCISSORS",
+  "Quantity": "2 PAIRS",
+  "Position": "K2L"
+ },
+ {
+  "Content": "BOX CUTTERS",
+  "Quantity": 6,
+  "Position": "K2L"
+ },
+ {
+  "Content": "RAZOR BLADES",
+  "Quantity": "1 BOX",
+  "Position": "K2L"
+ },
+ {
+  "Content": "SAFETY PINS",
+  "Quantity": "1 SET",
+  "Position": "K2L"
+ },
+ {
+  "Content": "TOOTPICKS",
+  "Quantity": "1 BAG",
+  "Position": "K2L"
+ },
+ {
+  "Content": "ASSORTED NEEDLES",
+  "Quantity": "1 BOX",
+  "Position": "K2L"
+ },
+ {
+  "Content": "stop watches",
+  "Quantity": 8,
+  "Position": "K2L"
+ },
+ {
+  "Content": "Cover slips",
+  "Position": "K2L"
+ },
+ {
+  "Content": "Bubble levels",
+  "Quantity": 8,
+  "Position": "K2L"
+ },
+ {
+  "Content": "Big Scissors",
+  "Quantity": 1,
+  "Position": "K2L"
+ },
+ {
+  "Content": "Nylon cord",
+  "Position": "K2L"
+ },
+ {
+  "Content": "Cutters, clips, straws",
+  "Quantity": "lot",
+  "Position": "K2M"
+ },
+ {
+  "Content": "BATTERY HOLDERS",
+  "Quantity": 2,
+  "Position": "K2M"
+ },
+ {
+  "Content": "BATTERY CLIPS",
+  "Quantity": "1 BAG",
+  "Position": "K2M"
+ },
+ {
+  "Content": "DRY CELLS",
+  "Quantity": "1 BAG",
+  "Position": "K2M"
+ },
+ {
+  "Content": "BUTTON CELLS",
+  "Quantity": 6,
+  "Position": "K2M"
+ },
+ {
+  "Content": "Hoffman clips",
+  "Position": "K2M",
+  "Column4": "G2R (Red Box)"
+ },
+ {
+  "Content": "Ticker tape",
+  "Quantity": "1 roll",
+  "Position": "K2M"
+ },
+ {
+  "Content": "8\" mirror mount",
+  "Quantity": 1,
+  "Position": "K2M"
+ },
+ {
+  "Content": "Torch cells C and D",
+  "Quantity": "lot",
+  "Position": "K2M"
+ },
+ {
+  "Content": "Cells, 1.5V",
+  "Quantity": "3 packs",
+  "Position": "K2M"
+ },
+ {
+  "Content": "plastic trays",
+  "Quantity": 3,
+  "Position": "K2M"
+ },
+ {
+  "Content": "GLUE GUN STICKS",
+  "Quantity": "1 PACKET",
+  "Position": "K2R"
+ },
+ {
+  "Content": "smart phone tripod adapters",
+  "Quantity": 24,
+  "Position": "K2R"
+ },
+ {
+  "Content": "Fiter paper",
+  "Position": "K2R"
+ },
+ {
+  "Content": "compass",
+  "Quantity": 12,
+  "Position": "K3L"
+ },
+ {
+  "Content": "Slinky",
+  "Quantity": 1,
+  "Position": "K3L"
+ },
+ {
+  "Content": "aluminium foil",
+  "Quantity": "2 packs",
+  "Position": "K3L"
+ },
+ {
+  "Content": "Numbering machine",
+  "Quantity": 1,
+  "Position": "K3L"
+ },
+ {
+  "Content": "Glue gun",
+  "Quantity": 1,
+  "Position": "K3L"
+ },
+ {
+  "Content": "Nail polish",
+  "Quantity": 2,
+  "Position": "K3L"
+ },
+ {
+  "Content": "Plastic trays",
+  "Quantity": 3,
+  "Position": "K3M"
+ },
+ {
+  "Content": "plastic trays",
+  "Position": "K3M"
+ },
+ {
+  "Content": "Plastic trays",
+  "Position": "K3M"
+ },
+ {
+  "Content": "Tray",
+  "Quantity": 1,
+  "Position": "K3M"
+ },
+ {
+  "Content": "Gloves",
+  "Quantity": "3 boxes",
+  "Position": "K3M"
+ },
+ {
+  "Content": "Plastic tray, small red",
+  "Quantity": 1,
+  "Position": "K3M"
+ },
+ {
+  "Content": "Plastic tray, medium white+blue",
+  "Quantity": 1,
+  "Position": "K3M"
+ },
+ {
+  "Content": "gloves",
+  "Quantity": "2 packs",
+  "Position": "K3M"
+ },
+ {
+  "Content": "Gloves, pack",
+  "Quantity": 1,
+  "Position": "K3M"
+ },
+ {
+  "Content": "Plastic trays",
+  "Quantity": 2,
+  "Position": "K3M"
+ },
+ {
+  "Content": "Plastic trays",
+  "Quantity": 3,
+  "Position": "K3M"
+ },
+ {
+  "Content": "Slab magnet",
+  "Quantity": "lot",
+  "Position": "K3R"
+ },
+ {
+  "Content": "bar magnets",
+  "Quantity": "lot",
+  "Position": "K3R"
+ },
+ {
+  "Content": "horse shoe magnets",
+  "Quantity": "lot",
+  "Position": "K3R"
+ },
+ {
+  "Content": "horse shoe electro magnets",
+  "Quantity": "lot",
+  "Position": "K3R"
+ },
+ {
+  "Content": "METALLIC CHAIN",
+  "Quantity": 1,
+  "Position": "K3R"
+ },
+ {
+  "Content": "labels",
+  "Position": "K3R"
+ },
+ {
+  "Content": "Carbon Paper",
+  "Position": "K3R"
+ },
+ {
+  "Content": "Graph paper, linear, semi-log, circular",
+  "Position": "K3R"
+ },
+ {
+  "Content": "white paper",
+  "Position": "K3R"
+ },
+ {
+  "Content": "Bubble levels",
+  "Quantity": 2,
+  "Position": "K3R"
+ },
+ {
+  "Content": "Aluminum foil (used)",
+  "Quantity": "lot",
+  "Position": "K4L"
+ },
+ {
+  "Content": "Bosch socket set",
+  "Quantity": 1,
+  "Position": "K4M"
+ },
+ {
+  "Content": "OHP film",
+  "Quantity": "roll",
+  "Position": "K4R"
+ },
+ {
+  "Content": "Hacksaw blades",
+  "Quantity": "~20",
+  "Position": "K5R"
+ },
+ {
+  "Content": "manuals",
+  "Quantity": "lot",
+  "Position": "L1L"
+ },
+ {
+  "Content": "Lab experiments books",
+  "Quantity": 6,
+  "Position": "L1M"
+ },
+ {
+  "Content": "manuals",
+  "Position": "L1R"
+ },
+ {
+  "Content": "Invoices, bills, etc",
+  "Position": "L1R"
+ },
+ {
+  "Content": "Ripple tank lamp holders",
+  "Quantity": "lot",
+  "Position": "L2"
+ },
+ {
+  "Content": "BITS AND BOBS",
+  "Position": "L2"
+ },
+ {
+  "Content": "Screws and washers, assorted",
+  "Position": "L2R"
+ },
+ {
+  "Content": "Cupric Sulphate",
+  "Quantity": "500 gm",
+  "Position": "M1L"
+ },
+ {
+  "Content": "Sodium metabisulphite",
+  "Quantity": "500 gm",
+  "Position": "M1L"
+ },
+ {
+  "Content": "Sodium chloride",
+  "Quantity": "500 gm",
+  "Position": "M1L"
+ },
+ {
+  "Content": "Sodium Sulphate",
+  "Quantity": "500 gm",
+  "Position": "M1L"
+ },
+ {
+  "Content": "Feric Chloride",
+  "Quantity": "500 gm",
+  "Position": "M1L"
+ },
+ {
+  "Content": "Petri dishes (plastic",
+  "Position": "M1L"
+ },
+ {
+  "Content": "Dry Chemicals",
+  "Position": "M1L"
+ },
+ {
+  "Content": "Lycopodium",
+  "Position": "M1L"
+ },
+ {
+  "Content": "Puffball",
+  "Position": "M1L"
+ },
+ {
+  "Content": "Mercury",
+  "Position": "M1M"
+ },
+ {
+  "Content": "Heating mantle",
+  "Quantity": 1,
+  "Position": "M1R"
+ },
+ {
+  "Content": "rotating perspex disc (black and clear)",
+  "Quantity": 2,
+  "Position": "M1R"
+ },
+ {
+  "Content": "Solvents (various)",
+  "Position": "M1R"
+ },
+ {
+  "Content": "Ethanol",
+  "Quantity": "2.5L",
+  "Position": "M1R"
+ },
+ {
+  "Content": "Stirling engine",
+  "Quantity": 1,
+  "Position": "M2L"
+ },
+ {
+  "Content": "Mini Electronic Balance",
+  "Quantity": 5,
+  "Position": "M2L"
+ },
+ {
+  "Content": "Hydrometers",
+  "Quantity": 3,
+  "Position": "M2L"
+ },
+ {
+  "Content": "Gyroscopes, 3 different types",
+  "Quantity": 4,
+  "Position": "M2M"
+ },
+ {
+  "Content": "Newton's cradle",
+  "Quantity": 2,
+  "Position": "M2R"
+ },
+ {
+  "Content": "Force meter (rat chewed)",
+  "Quantity": 1,
+  "Position": "M2R"
+ },
+ {
+  "Content": "Hi-flow booster pump",
+  "Quantity": 1,
+  "Position": "M3L"
+ },
+ {
+  "Content": "E\/M Apparatus",
+  "Quantity": 1,
+  "Position": "M3R"
+ },
+ {
+  "Content": "Ripple Tank lamp",
+  "Quantity": 1,
+  "Position": "N2L"
+ },
+ {
+  "Content": "White light LEDs and holders",
+  "Quantity": 8,
+  "Position": "N2L"
+ },
+ {
+  "Content": "Motors, 6V",
+  "Quantity": 8,
+  "Position": "N2L"
+ },
+ {
+  "Content": "Lasers, Red",
+  "Quantity": 8,
+  "Position": "N2L"
+ },
+ {
+  "Content": "6V motors with stands, ripple tank",
+  "Quantity": 4,
+  "Position": "N2L"
+ },
+ {
+  "Content": "Ripple tank stands",
+  "Quantity": 6,
+  "Position": "N3"
+ },
+ {
+  "Content": "PVC rods, assorted, ripple tanks",
+  "Quantity": "many",
+  "Position": "N3M"
+ },
+ {
+  "Content": "LED bLue",
+  "Quantity": "bottle",
+  "Position": "O1L"
+ },
+ {
+  "Content": "LED white",
+  "Quantity": "bottle",
+  "Position": "O1L"
+ },
+ {
+  "Content": "LED red",
+  "Quantity": "bottle",
+  "Position": "O1L"
+ },
+ {
+  "Content": "LED green",
+  "Quantity": "bottle",
+  "Position": "O1L"
+ },
+ {
+  "Content": "LED red - green",
+  "Quantity": "bottle",
+  "Position": "O1L"
+ },
+ {
+  "Content": "LED yellow",
+  "Quantity": "bottle",
+  "Position": "O1L"
+ },
+ {
+  "Content": "beads",
+  "Quantity": "bottle",
+  "Position": "O1L"
+ },
+ {
+  "Content": "steel balls",
+  "Quantity": 500,
+  "Position": "O1L"
+ },
+ {
+  "Content": "LDR",
+  "Quantity": "bottle",
+  "Position": "O1L"
+ },
+ {
+  "Content": "7-segment CC",
+  "Quantity": "bottle",
+  "Position": "O1L"
+ },
+ {
+  "Content": "Wire strippers",
+  "Quantity": 13,
+  "Position": "O1L"
+ },
+ {
+  "Content": "Zeners",
+  "Quantity": "bottle",
+  "Position": "O1M"
+ },
+ {
+  "Content": "Bridge rectifiers",
+  "Quantity": "bottle",
+  "Position": "O1M"
+ },
+ {
+  "Content": "Relay OEN",
+  "Quantity": "bottle",
+  "Position": "O1M"
+ },
+ {
+  "Content": "Diodes",
+  "Quantity": "bottle",
+  "Position": "O1M"
+ },
+ {
+  "Content": "IRF 530\/540",
+  "Quantity": "bottle",
+  "Position": "O1M"
+ },
+ {
+  "Content": "Buzzers SK\/SL 100 (small)",
+  "Quantity": "bottle",
+  "Position": "O1M"
+ },
+ {
+  "Content": "Small push buttons",
+  "Quantity": "bottle",
+  "Position": "O1M"
+ },
+ {
+  "Content": "Trnsistors \/opAmps",
+  "Quantity": "bottle",
+  "Position": "O1M"
+ },
+ {
+  "Content": "Fuses",
+  "Quantity": "bottle",
+  "Position": "O1R"
+ },
+ {
+  "Content": "Nichrome wire",
+  "Quantity": "roll",
+  "Position": "O1R"
+ },
+ {
+  "Content": "Steel Balls, assorted",
+  "Position": "O1R"
+ },
+ {
+  "Content": "thermistors on lug",
+  "Quantity": 6,
+  "Position": "O1R",
+  "Column4": " F2 M Box"
+ },
+ {
+  "Content": "BNC T adapters",
+  "Quantity": "lot",
+  "Position": "O1R"
+ },
+ {
+  "Content": "Audio Plugs and sockets",
+  "Quantity": "lot",
+  "Position": "O1R"
+ },
+ {
+  "Content": "Stereo 3mm sockets",
+  "Quantity": "lot",
+  "Position": "O1R"
+ },
+ {
+  "Content": "fuse holders",
+  "Quantity": "lot",
+  "Position": "O1R"
+ },
+ {
+  "Content": "Arduino sensor kits",
+  "Quantity": "5 boxes",
+  "Position": "O2L"
+ },
+ {
+  "Content": "MQ Sensor",
+  "Quantity": 6,
+  "Position": "O2M"
+ },
+ {
+  "Content": "IR Sensor Module",
+  "Quantity": 3,
+  "Position": "O2M"
+ },
+ {
+  "Content": "I2C Module",
+  "Quantity": 11,
+  "Position": "O2M"
+ },
+ {
+  "Content": "ESP 8266 WiFiModule",
+  "Quantity": 2,
+  "Position": "O2M"
+ },
+ {
+  "Content": "LCD Shield",
+  "Quantity": 5,
+  "Position": "O2M"
+ },
+ {
+  "Content": "MAX6675",
+  "Quantity": 3,
+  "Position": "O2M"
+ },
+ {
+  "Content": "XY Plotter AOXL335",
+  "Quantity": 12,
+  "Position": "O2M"
+ },
+ {
+  "Content": "Keypad",
+  "Quantity": 12,
+  "Position": "O2M"
+ },
+ {
+  "Content": "MPU 9259",
+  "Quantity": 12,
+  "Position": "O2M"
+ },
+ {
+  "Content": "Motion sensor PIR",
+  "Quantity": 3,
+  "Position": "O2M"
+ },
+ {
+  "Content": "LCD Display",
+  "Quantity": 6,
+  "Position": "O2M"
+ },
+ {
+  "Content": "SD Card Modules",
+  "Quantity": 12,
+  "Position": "O2M"
+ },
+ {
+  "Content": "RTC Modules",
+  "Quantity": 4,
+  "Position": "O2M"
+ },
+ {
+  "Content": "Force Sensors",
+  "Quantity": 12,
+  "Position": "O2M"
+ },
+ {
+  "Content": "Ultrasonic Sensors",
+  "Quantity": 12,
+  "Position": "O2M"
+ },
+ {
+  "Content": "Stepper motor driver",
+  "Quantity": 1,
+  "Position": "O2M"
+ },
+ {
+  "Content": "Berg Strips",
+  "Quantity": "Lot",
+  "Position": "O2R"
+ },
+ {
+  "Content": "Assorted Resistors and capacitors",
+  "Quantity": "4 divider boxes",
+  "Position": "O2R"
+ },
+ {
+  "Content": "Strain gauge with display",
+  "Quantity": 1,
+  "Position": "O2R"
+ },
+ {
+  "Content": "10 turn pots , 5k, 10k, etc",
+  "Quantity": "Lot",
+  "Position": "O3L"
+ },
+ {
+  "Content": "12-0-12 transformer",
+  "Quantity": 11,
+  "Position": "O3L"
+ },
+ {
+  "Content": "Shaded Pole motors",
+  "Quantity": 3,
+  "Position": "O3L"
+ },
+ {
+  "Content": "Resistors 10 W",
+  "Quantity": "~50",
+  "Position": "O3L"
+ },
+ {
+  "Content": "Resistance and Capacitance assortments",
+  "Quantity": 15,
+  "Position": "O3L"
+ },
+ {
+  "Content": "3 pin and 2 pin tops",
+  "Quantity": "Lot",
+  "Position": "O3M"
+ },
+ {
+  "Content": "Tap Keys",
+  "Quantity": 22,
+  "Position": "O3M"
+ },
+ {
+  "Content": "PRINTER CABLES (arduino cables)",
+  "Quantity": "~dozen",
+  "Position": "O3M"
+ },
+ {
+  "Content": "electronic components",
+  "Quantity": "lot",
+  "Position": "O3M"
+ },
+ {
+  "Content": "Assorted Resistors and capacitors, core, sockets,Ics",
+  "Quantity": "Lot",
+  "Position": "O3R"
+ },
+ {
+  "Content": "carbon brushes",
+  "Quantity": "2 sets",
+  "Position": "O3R"
+ },
+ {
+  "Content": "Crocodile clips",
+  "Quantity": 200,
+  "Position": "O3R"
+ },
+ {
+  "Content": "6-0-6 transformers",
+  "Quantity": 15,
+  "Position": "O3R"
+ },
+ {
+  "Content": "potentiometers",
+  "Quantity": "lot",
+  "Position": "O3R"
+ },
+ {
+  "Content": "Switches and pots",
+  "Quantity": "lot",
+  "Position": "O3R"
+ },
+ {
+  "Content": "10 turn pots",
+  "Quantity": "lot",
+  "Position": "O3R"
+ },
+ {
+  "Content": "cut pieces of wire",
+  "Quantity": "box",
+  "Position": "O3R"
+ },
+ {
+  "Content": "Flywheel",
+  "Quantity": 1,
+  "Position": "ON FLOOR"
+ },
+ {
+  "Content": "Flywheel",
+  "Quantity": 1,
+  "Position": "ON FLOOR"
+ },
+ {
+  "Content": "Flywheel",
+  "Quantity": 1,
+  "Position": "ON FLOOR"
+ },
+ {
+  "Content": "Flywheel",
+  "Quantity": 1,
+  "Position": "ON FLOOR"
+ },
+ {
+  "Content": "Flywheel",
+  "Quantity": 1,
+  "Position": "ON FLOOR"
+ },
+ {
+  "Content": "Flywheel",
+  "Quantity": 1,
+  "Position": "ON FLOOR"
+ },
+ {
+  "Content": "Aplab HV supply",
+  "Quantity": 1,
+  "Position": "ON FLOOR"
+ },
+ {
+  "Content": "Low rpm motor with gear box",
+  "Quantity": 1,
+  "Position": "ON GROUND"
+ },
+ {
+  "Content": "Microscopes",
+  "Quantity": 1,
+  "Position": "P0L"
+ },
+ {
+  "Content": "Microscopes",
+  "Quantity": 1,
+  "Position": "P0L"
+ },
+ {
+  "Content": "Microscopes",
+  "Quantity": 1,
+  "Position": "P0M"
+ },
+ {
+  "Content": "POWER CORD",
+  "Position": "P1L"
+ },
+ {
+  "Content": "Power cords",
+  "Quantity": "many",
+  "Position": "P1L"
+ },
+ {
+  "Content": "Power cables",
+  "Quantity": "lot",
+  "Position": "P1L"
+ },
+ {
+  "Content": "Oscilloscope probes",
+  "Quantity": 7,
+  "Position": "P1M"
+ },
+ {
+  "Content": "Oscilloscope probes tips",
+  "Position": "P1M"
+ },
+ {
+  "Content": "oscilloscope probes",
+  "Quantity": 2,
+  "Position": "P1M"
+ },
+ {
+  "Content": "oscilloscope probes",
+  "Quantity": 1,
+  "Position": "P1M"
+ },
+ {
+  "Content": "Oscilloscope probes",
+  "Quantity": 22,
+  "Position": "P1M"
+ },
+ {
+  "Content": "Multimeter",
+  "Quantity": 2,
+  "Position": "P1R"
+ },
+ {
+  "Content": "Extension cords",
+  "Quantity": 1,
+  "Position": "P1R"
+ },
+ {
+  "Content": "insulated wire, assorted",
+  "Quantity": "9 rolls",
+  "Position": "P2L"
+ },
+ {
+  "Content": "Copper wire, 32 gauge",
+  "Quantity": "2 rolls",
+  "Position": "P2L"
+ },
+ {
+  "Content": "Copper wire, 30 gauge",
+  "Quantity": "1 roll",
+  "Position": "P2L"
+ },
+ {
+  "Content": "Copper wire, 26 gauge",
+  "Quantity": "1 roll",
+  "Position": "P2L"
+ },
+ {
+  "Content": "Copper wire, 40 gauge",
+  "Quantity": "1 roll",
+  "Position": "P2L"
+ },
+ {
+  "Content": "Copper wire, enamelled, thick",
+  "Quantity": "2 coils",
+  "Position": "P2L"
+ },
+ {
+  "Content": "24 gauge copper wire",
+  "Quantity": 1,
+  "Position": "P2L"
+ },
+ {
+  "Content": "Wire in spools",
+  "Quantity": "lot",
+  "Position": "P2M"
+ },
+ {
+  "Content": "plastic rack, 3 trays",
+  "Quantity": 1,
+  "Position": "P2R"
+ },
+ {
+  "Content": "Banana cables",
+  "Quantity": "lot",
+  "Position": "P2R"
+ },
+ {
+  "Content": "BNC cables",
+  "Quantity": "lot",
+  "Position": "P2R"
+ },
+ {
+  "Content": "Cables",
+  "Quantity": "lot",
+  "Position": "P2R"
+ },
+ {
+  "Content": "Table bushings",
+  "Quantity": 8,
+  "Position": "P4"
+ },
+ {
+  "Content": "Probe tip cables",
+  "Quantity": "lot",
+  "Position": "P4M"
+ },
+ {
+  "Content": "Mechanics breadboards",
+  "Quantity": 7,
+  "Position": "Q0M"
+ },
+ {
+  "Content": "Ripple tank trays",
+  "Quantity": 4,
+  "Position": "Q0R"
+ },
+ {
+  "Content": "Ripple tank tray (commercial)",
+  "Quantity": 1,
+  "Position": "Q0R"
+ },
+ {
+  "Content": "ripple tank perspex unassembled",
+  "Quantity": "lot",
+  "Position": "Q0R"
+ },
+ {
+  "Content": "Spectroscopes",
+  "Quantity": 1,
+  "Position": "Q1L"
+ },
+ {
+  "Content": "Spectroscopes",
+  "Quantity": 1,
+  "Position": "Q1M"
+ },
+ {
+  "Content": "Spectroscopes",
+  "Quantity": 1,
+  "Position": "Q1R"
+ },
+ {
+  "Content": "Spectroscopes",
+  "Quantity": 1,
+  "Position": "Q2L"
+ },
+ {
+  "Content": "Spectroscopes",
+  "Quantity": 1,
+  "Position": "Q2M"
+ },
+ {
+  "Content": "Medieval torture",
+  "Quantity": 1,
+  "Position": "Q2R"
+ },
+ {
+  "Content": "Travelling Microscope",
+  "Quantity": 1,
+  "Position": "Q3L"
+ },
+ {
+  "Content": "Travelling Microscope",
+  "Quantity": 1,
+  "Position": "Q3L"
+ },
+ {
+  "Content": "Travelling Microscope",
+  "Quantity": 1,
+  "Position": "Q3R"
+ },
+ {
+  "Content": "Travelling Microscope",
+  "Quantity": 1,
+  "Position": "Q3R"
+ },
+ {
+  "Content": "Travelling Microscope",
+  "Quantity": 1,
+  "Position": "Q4L"
+ },
+ {
+  "Content": "Travelling Microscope",
+  "Quantity": 1,
+  "Position": "Q4L"
+ },
+ {
+  "Content": "Meter Bridge",
+  "Quantity": 10,
+  "Position": "R0"
+ },
+ {
+  "Content": "Meter Bridge",
+  "Quantity": 5,
+  "Position": "R0"
+ },
+ {
+  "Content": "Breadboards, GL12",
+  "Quantity": 9,
+  "Position": "R1L"
+ },
+ {
+  "Content": "Wire racks, wall mounted",
+  "Quantity": 2,
+  "Position": "R1L"
+ },
+ {
+  "Content": "cable racks",
+  "Quantity": 18,
+  "Position": "R1L"
+ },
+ {
+  "Content": "soldering irons",
+  "Quantity": 4,
+  "Position": "R1R"
+ },
+ {
+  "Content": "Liquid flux",
+  "Quantity": "bottle",
+  "Position": "R1R"
+ },
+ {
+  "Content": "Alcon electronics organizer box (resistors)",
+  "Quantity": 2,
+  "Position": "R2L"
+ },
+ {
+  "Content": "Alcon electronics organizer box",
+  "Quantity": 1,
+  "Position": "R2L"
+ },
+ {
+  "Content": "Alcon electronics organizer box(Ics)",
+  "Quantity": 1,
+  "Position": "R2M"
+ },
+ {
+  "Content": "Alcon electronics organizer box",
+  "Quantity": 1,
+  "Position": "R2R"
+ },
+ {
+  "Content": "Electronic components",
+  "Quantity": "various, lot",
+  "Position": "R3L"
+ },
+ {
+  "Content": "electronic components",
+  "Quantity": "lot",
+  "Position": "R3M"
+ },
+ {
+  "Content": "bread boards",
+  "Quantity": "lot",
+  "Position": "R3R"
+ },
+ {
+  "Content": "Banana plugs",
+  "Quantity": "lot",
+  "Position": "R3R"
+ },
+ {
+  "Content": "Banana sockets",
+  "Quantity": "lot",
+  "Position": "R3R"
+ },
+ {
+  "Content": "TT Table Shades",
+  "Quantity": 6,
+  "Position": "R5R"
+ },
+ {
+  "Content": "Casio cameras",
+  "Quantity": 2,
+  "Position": "RF cupboard"
+ },
+ {
+  "Content": "glass syringe (broken)",
+  "Quantity": 1,
+  "Position": "S1L"
+ },
+ {
+  "Content": "Large, 15\" mirrors",
+  "Quantity": 2,
+  "Position": "S2L"
+ },
+ {
+  "Content": "extension bard",
+  "Quantity": 1,
+  "Position": "S4R"
+ },
+ {
+  "Content": "big bins",
+  "Quantity": 6,
+  "Position": "USED FOR THINGS"
+ },
+ {
+  "Content": "Small bins",
+  "Quantity": 6,
+  "Position": "USED FOR THINGS"
+ },
+ {
+  "Content": "Multimeters",
+  "Quantity": 15
+ },
+ {
+  "Content": "EL 3 bulb holders (small torch)"
+ },
+ {
+  "Content": "Discharge Tubes"
+ },
+ {
+  "Content": "Boxes below are glassware"
+ },
+ {
+  "Content": "DIFFRACTION GRATING",
+  "Quantity": 1
+ },
+ {
+  "Content": "Weights with hanger 500 g",
+  "Quantity": 1
+ },
+ {
+  "Content": "Optical hardware"
+ },
+ {
+  "Content": "12V power supplies",
+  "Quantity": 15
+ },
+ {
+  "Content": "6V power supplies",
+  "Quantity": 6
+ },
+ {
+  "Content": "Acoustic Interferometer",
+  "Quantity": 1
+ },
+ {
+  "Content": "Vacuum tubes, assorted",
+  "Quantity": 4
+ },
+ {
+  "Content": "camera battery",
+  "Quantity": 1
+ },
+ {
+  "Content": "Electronic balance 600 gm",
+  "Quantity": 1
+ },
+ {
+  "Content": "Electronic balance 300 gm",
+  "Quantity": 1
+ },
+ {
+  "Content": "Power sockets ",
+  "Quantity": "lot"
+ },
+ {
+  "Content": "SPST",
+  "Quantity": "lot"
+ },
+ {
+  "Content": "pipes, rods, etc",
+  "Quantity": "lot"
+ },
+ {
+  "Content": "Hot water bath",
+  "Quantity": 1
+ },
+ {
+  "Content": "Old monitor",
+  "Quantity": 1
+ },
+ {
+  "Content": "CRT",
+  "Quantity": 1
+ },
+ {
+  "Content": "Electronics (Raghav)"
+ },
+ {
+  "Content": "Perspex (Amruta)"
+ },
+ {
+  "Content": "Electronics (Raghav, Princita)"
+ },
+ {
+  "Content": "Laser cutter spares"
+ },
+ {
+  "Content": "Princita setup"
+ },
+ {
+  "Content": "Tachometer",
+  "Quantity": 1
+ },
+ {
+  "Content": "Trash from drawer"
+ },
+ {
+  "Content": "Old optics"
+ },
+ {
+  "Content": "Electronics scrap"
+ },
+ {
+  "Content": "Old optics"
+ },
+ {
+  "Content": "Scanner",
+  "Quantity": 1
+ },
+ {
+  "Content": "IC power supply"
+ },
+ {
+  "Content": "Assorted electronics"
+ },
+ {
+  "Content": "Sewing motor controller box"
+ },
+ {
+  "Content": "Perspex scrap"
+ },
+ {
+  "Content": "Perspex scrap"
+ },
+ {
+  "Content": "Monochromator"
+ },
+ {
+  "Content": "Spectroscope light sources"
+ },
+ {
+  "Content": "Scanner",
+  "Quantity": 1
+ },
+ {
+  "Content": "Printer",
+  "Quantity": 1
+ },
+ {
+  "Content": "Polishing, grinding powder",
+  "Quantity": "various"
+ },
+ {
+  "Content": "Rouge"
+ },
+ {
+  "Content": "Telescope eyepieces",
+  "Quantity": "various"
+ },
+ {
+  "Content": "Mirror blanks (Tanishq)"
+ },
+ {
+  "Content": "Assorted perspex"
+ },
+ {
+  "Content": "PCB",
+  "Quantity": "1 sheet"
+ },
+ {
+  "Content": "Weighing balance",
+  "Quantity": 1
+ },
+ {
+  "Content": "Spectrophotometer parts"
+ },
+ {
+  "Content": "Van de Graff parts"
+ },
+ {
+  "Content": "Amplified",
+  "Quantity": 1
+ },
+ {
+  "Content": "Assorted electronics"
+ },
+ {
+  "Content": "Chemicals",
+  "Quantity": "various"
+ },
+ {
+  "Content": "Glass bottles",
+  "Quantity": "various"
+ },
+ {
+  "Content": "Microwave turntable",
+  "Quantity": 1
+ },
+ {
+  "Content": "Scanner",
+  "Quantity": 1
+ },
+ {
+  "Content": "Mirror blanks (Tanishq)"
+ },
+ {
+  "Content": "Tar"
+ },
+ {
+  "Content": "Beeswax"
+ },
+ {
+  "Content": "Plastic tray",
+  "Quantity": 1
+ },
+ {
+  "Content": "Tools",
+  "Quantity": "various"
+ },
+ {
+  "Content": "Machine shop stuff"
+ },
+ {
+  "Content": "Drill bits etc",
+  "Quantity": "various"
+ }
+]
